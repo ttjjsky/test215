@@ -1,0 +1,15 @@
+http://blog.csdn.net/yanzi1225627/article/details/12859323
+
+add-mycard-txt的内容是这些啦
+
+七、最后研究下向github上传文件夹。
+
+在Test文件夹下新建文件夹“测试”，可以看到又是一个大大的问号。
+
+链接http://www.shangxueba.com/jingyan/337011.html这里说，新建的文件夹要pull下，经过测试，纯属扯淡！
+
+是要在Test文件夹下pull，还是对新建的文件夹pull？而且不管怎么pull完之后，都没法commit。也就是可能空的文件夹没法commit，也就没法push上去。
+
+在新建的文件夹内新建文件，然后add。或者在一个文件夹内新建多个文件后，对新加的每个文件进行add，然后对外面的文件夹进行统一commit，再push就ok了！
+
+
